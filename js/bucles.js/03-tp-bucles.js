@@ -6,14 +6,13 @@ Nota: usar confirm() https://www.w3schools.com/jsref/met_win_confirm.asp
 
  */
 
-let textoFinal = "";       // Donde se van a ir guardando las cadenas
-let primera = true;        // Para no poner guión al principio
+let textoFinal = "";     
+let primera = true;      
 
 while (true) {
   let input = prompt("Escribí algo (hacé clic en 'Cancelar' para terminar):");
 
   if (input === null) {
-    // El usuario tocó "Cancelar"
     break;
   }
 
