@@ -35,7 +35,7 @@ El objetivo principal de este trabajo práctico es **resolver la mayor cantidad 
 
 ## ✍️ Autor
 
-Maximiliano Ordoñez | Full Stack Dev en formación 🚀 (2025)
+Maximiliano Exequiel Ordoñez
 
 
 
